@@ -38,7 +38,6 @@ Hint: Have a look at the tutorials from the mpi4py documentation page: [https://
 ```
 pip install pytest --user
 ```
-
 #### b. Write a module ```test_simple_math.py``` which tests the correctness of the math operations inside ```simple_math.py```.
 You can run the tests using the ```py.test``` command. Note that the name of your test functions should start with ```test_```.
 
